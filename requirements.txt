@@ -1,0 +1,27 @@
+matplotlib>=3.2.2
+opencv-python>=4.6.0
+Pillow>=7.1.2
+PyYAML>=5.3.1
+requests>=2.23.0
+scipy>=1.4.1
+torch>=1.7.0
+torchvision>=0.8.1
+tqdm>=4.64.0a
+pandas>=1.1.4
+seaborn>=0.11.0
+psutil
+# for onnxruntime
+onnxruntime-gpu
+# for tensorrt
+numpy<=1.23.5
+onnx
+onnxsim
+opencv-python
+torch
+torchvision
+ultralytics
+# for tflite
+onnx2tf>=1.7.7
+sng4onnx>=1.0.1
+onnx_graphsurgeon>=0.3.26
+tflite-support
